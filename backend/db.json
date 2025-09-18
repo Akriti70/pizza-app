@@ -1,0 +1,18 @@
+
+{
+  "pizzas": [
+    { "id": 1, "name": "Classic Margherita", "price": 8, "ingredients": ["tomato sauce", "mozzarella", "basil"], "size": ["small", "medium", "large"] },
+    { "id": 2, "name": "Veggie Delight", "price": 9, "ingredients": ["tomato sauce", "mozzarella", "mushrooms", "onions", "peppers"], "size": ["small", "medium", "large"] },
+    { "id": 3, "name": "Pepperoni Feast", "price": 10, "ingredients": ["tomato sauce", "mozzarella", "pepperoni"], "size": ["small", "medium", "large"] },
+    { "id": 4, "name": "BBQ Chicken", "price": 11, "ingredients": ["bbq sauce", "mozzarella", "chicken", "onions"], "size": ["small", "medium", "large"] },
+    { "id": 5, "name": "Hawaiian", "price": 10, "ingredients": ["tomato sauce", "mozzarella", "ham", "pineapple"], "size": ["small", "medium", "large"] },
+    { "id": 6, "name": "Cheese Lovers", "price": 9, "ingredients": ["tomato sauce", "mozzarella", "cheddar", "parmesan"], "size": ["small", "medium", "large"] },
+    { "id": 7, "name": "Spicy Paneer", "price": 10, "ingredients": ["tomato sauce", "mozzarella", "paneer", "chili flakes"], "size": ["small", "medium", "large"] },
+    { "id": 8, "name": "Four Seasons", "price": 12, "ingredients": ["tomato sauce", "mozzarella", "mushrooms", "ham", "artichokes", "olives"], "size": ["small", "medium", "large"] },
+    { "id": 9, "name": "Meat Lovers", "price": 13, "ingredients": ["tomato sauce", "mozzarella", "pepperoni", "sausage", "bacon"], "size": ["small", "medium", "large"] },
+    { "id": 10, "name": "Mexican Fiesta", "price": 11, "ingredients": ["tomato sauce", "mozzarella", "jalapenos", "corn", "beans"], "size": ["small", "medium", "large"] }
+  ],
+  "users": [],
+  "cart": [],
+  "orders": []
+}
